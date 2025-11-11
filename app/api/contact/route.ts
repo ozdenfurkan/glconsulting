@@ -44,9 +44,10 @@ export async function POST(req: NextRequest) {
 
     // Email options
     const mailOptions = {
-      from: `"${name}" <${process.env.EMAIL_USER}>`,
-      to: process.env.EMAIL_USER, // Receiver
-      subject: `Consulo Contact Form Message`,
+      from: process.env.EMAIL_USER, // Sadece doğrulanmış e-posta adresi
+      to: process.env.EMAIL_USER, // Alıcı
+      reply_to: email, // Müşterinin e-postası (Yanıtla butonuna basınca buraya gider)
+      subject: `New Form Message from ${name}`, // Müşterinin adını konuya ekledik
       text: message,
       html: html,
     };
