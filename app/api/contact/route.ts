@@ -46,7 +46,8 @@ export async function POST(req: NextRequest) {
     const mailOptions = {
       from: `"${name}" <${process.env.EMAIL_USER}>`,
       to: process.env.EMAIL_USER, // Receiver
-      subject: `Consulo Contact Form Message`,
+      reply_to: email, // Müşterinin e-postası buraya
+      subject: `G&L Consulting Website Contact Form - ${name}`, // Müşterinin adı konuya
       text: message,
       html: html,
     };
@@ -60,3 +61,4 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: "Failed to send email" }, { status: 500 });
   }
 }
+
