@@ -1,0 +1,16 @@
+# Bağımlılıklar (Binlerce dosya içerir)
+node_modules
+
+# Next.js derleme çıktıları (Sürekli değişir)
+.next
+
+# Gizli anahtarlar ve şifreler (Güvenlik)
+.env.local
+
+# İşletim sistemi dosyaları
+.DS_Store
+
+# Opsiyonel - Hata ayıklama logları
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "slug": "legalization-work-permit",
+        "title": "Legalization & Work Permit",
+        "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40' fill='none'><g clip-path='url(#clip0_LWP)'><path d='M28 6H12C9.79 6 8 7.79 8 10V30C8 32.21 9.79 34 12 34H28C30.21 34 32 32.21 32 30V10C32 7.79 30.21 6 28 6ZM14 26H12V24H14V26ZM14 22H12V20H14V22ZM14 18H12V16H14V18ZM28 26H18V24H28V26ZM28 22H18V20H28V22ZM28 18H18V16H28V18Z' fill='CurrentColor'/></g><defs><clipPath id='clip0_LWP'><rect width='40' height='40' fill='CurrentColor' /></clipPath></defs></svg>",
+        "content": "<p class='text text-18' data-aos='fade-up'>Navigating Poland's immigration and corporate law is our expertise. We provide a streamlined service for securing work permits and completing all necessary business legalizations for your operations in Krakow and beyond.</p><p class='text text-18' data-aos='fade-up'>Our end-to-end support covers both corporate and individual needs. We manage the entire application lifecycle, from document preparation to government liaison, ensuring your international team is legally compliant and ready to work.</p><div class='service-choose-us' data-aos='fade-up'><div class='grid grid-cols-2 lg:gap-1 service-row'><div class='md:col-span-1 col-span-2'><div class='choose-us-img radius18'><img src='/img/service/sd-1.jpg' width='1000' height='962' loading='lazy' alt='Work Permit Services'></div></div><div class='md:col-span-1 col-span-2'><div class='choose-us-desc'><h2 class='heading text-36'>Navigate with Confidence</h2><p class='text text-18'>We manage the complexities of Polish and EU regulations, allowing you to operate your business with total peace of mind.</p><ul class='text-lists list-unstyled'><li class='text-item' data-aos='fade-up'><svg class='icon-24' width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M17.9999 6.99486L16.5899 5.58594L10.2499 11.9211L11.6599 13.33L17.9999 6.99486ZM22.2399 5.58594L11.6599 16.1578L7.47991 11.991L6.06991 13.3999L11.6599 18.9857L23.6599 6.99486L22.2399 5.58594ZM0.409912 13.3999L5.99991 18.9857L7.40991 17.5767L1.82991 11.991L0.409912 13.3999Z' fill='CurrentColor'/></svg><div class='text text-18 fw-600'>Temporary & Permanent Residence</div></li><li class='text-item' data-aos='fade-up'><svg class='icon-24' width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M17.9999 6.99486L16.5899 5.58594L10.2499 11.9211L11.6599 13.33L17.9999 6.99486ZM22.2399 5.58594L11.6599 16.1578L7.47991 11.991L6.06991 13.3999L11.6599 18.9857L23.6599 6.99486L22.2399 5.58594ZM0.409912 13.3999L5.99991 18.9857L7.40991 17.5767L1.82991 11.991L0.409912 13.3999Z' fill='CurrentColor'/></svg><div class='text text-18 fw-600'>Business & Document Legalization</div></li></ul></div></div></div></div>",
+        "description": "Navigate complex immigration laws and secure necessary work permits for your international team.",
+        "list": [
+            {
+                "title": "Individual Work Permits"
+            },
+            {
+                "title": "Corporate Relocation"
+            },
+            {
+                "title": "Document Legalization"
+            }
+        ],
+        "created_at": "2026-10-01T18:00:00Z"
+    },
+    {
+        "id": 2,
+        "slug": "legal-services",
+        "title": "Legal Services",
+        "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40' fill='none'><g clip-path='url(#clip0_LS)'><path d='M8 10 H 32 L 28 16 H 12 Z' fill='CurrentColor'/><path d='M18 17 H 22 V 30 H 18 Z' fill='CurrentColor'/><path d='M14 32 H 26 V 34 H 14 Z' fill='CurrentColor'/></g><defs><clipPath id='clip0_LS'><rect width='40' height='40' fill='CurrentColor' /></clipPath></defs></svg>",
+        "content": "<p class='text text-18' data-aos='fade-up'>Our distinguished legal team offers comprehensive counsel to safeguard your business interests. From meticulous contract drafting and review to robust representation in legal disputes, our seasoned attorneys are dedicated to navigating you through every legal challenge.</p><p class='text text-18' data-aos='fade-up'>We specialize in Polish and EU corporate law, ensuring your business structure is impeccably sound and your operations are fully compliant. We are steadfast in litigation, defending your rights and striving for the most favorable outcomes in any dispute.</p><div class='service-choose-us' data-aos='fade-up'><div class='grid grid-cols-2 lg:gap-1 service-row'><div class='md:col-span-1 col-span-2'><div class='choose-us-img radius18'><img src='/img/service/sd-1.jpg' width='1000' height='962' loading='lazy' alt='Legal Services'></div></div><div class='md:col-span-1 col-span-2'><div class='choose-us-desc'><h2 class='heading text-36'>Fortify Your Enterprise</h2><p class='text text-18'>Gain a decisive strategic advantage with expert legal advice, precisely tailored to your industry and business requirements.</p><ul class='text-lists list-unstyled'><li class='text-item' data-aos='fade-up'><svg class='icon-24' width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M17.9999 6.99486L16.5899 5.58594L10.2499 11.9211L11.6599 13.33L17.9999 6.99486ZM22.2399 5.58594L11.6599 16.1578L7.47991 11.991L6.06991 13.3999L11.6599 18.9857L23.6599 6.99486L22.2399 5.58594ZM0.409912 13.3999L5.99991 18.9857L7.40991 17.5767L1.82991 11.991L0.409912 13.3999Z' fill='CurrentColor'/></svg><div class='text text-18 fw-600'>Corporate & Commercial Law</div></li><li class='text-item' data-aos='fade-up'><svg class='icon-24' width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M17.9999 6.99486L16.5899 5.58594L10.2499 11.9211L11.6599 13.33L17.9999 6.99486ZM22.2399 5.58594L11.6599 16.1578L7.47991 11.991L6.06991 13.3999L11.6599 18.9857L23.6599 6.99486L22.2399 5.58594ZM0.409912 13.3999L5.99991 18.9857L7.40991 17.5767L1.82991 11.991L0.409912 13.3999Z' fill='CurrentColor'/></svg><div class='text text-18 fw-600'>Litigation & Dispute Resolution</div></li></ul></div></div></div></div>",
+        "description": "Access comprehensive legal support to protect your business and ensure full compliance.",
+        "list": [
+            {
+                "title": "Contract Drafting"
+            },
+            {
+                "title": "Dispute Resolution"
+            },
+            {
+                "title": "Corporate Compliance"
+            }
+        ],
+        "created_at": "2026-10-01T18:00:00Z"
+    },
+    {
+        "id": 3,
+        "slug": "business-structuring",
+        "title": "Business Structuring",
+        "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40' fill='none'><g clip-path='url(#clip0_BS)'><path d='M16 6 H 24 V 14 H 16 Z' fill='CurrentColor'/><path d='M20 14 V 18 M10 18 H 30 M10 18 V 22 M20 18 V 22 M30 18 V 22' stroke='CurrentColor' stroke-width='2'/><path d='M6 22 H 14 V 30 H 6 Z M16 22 H 24 V 30 H 16 Z M26 22 H 34 V 30 H 26 Z' fill='CurrentColor'/></g><defs><clipPath id='clip0_BS'><rect width='40' height='40' fill='CurrentColor' /></clipPath></defs></svg>",
+        "content": "<p class='text text-18' data-aos='fade-up'>Embarking on a new venture? We provide expert guidance through every stage of the company formation process. Our specialists help you select the optimal legal structure (e.g., LLC, Corporation) to enhance liability protection, optimize tax efficiency, and support future growth.</p><p class='text text-18' data-aos='fade-up'>Our comprehensive services ensure your business is established flawlessly from the outset, managing all registrations and documentation. This robust foundation empowers you to concentrate on building your business, confident in a legal structure that is both sound and scalable.</p><div class='service-choose-us' data-aos='fade-up'><div class='grid grid-cols-2 lg:gap-1 service-row'><div class='md:col-span-1 col-span-2'><div class='choose-us-img radius18'><img src='/img/service/sd-1.jpg' width='1000' height='962' loading='lazy' alt='Business Structuring'></div></div><div class='md:col-span-1 col-span-2'><div class='choose-us-desc'><h2 class='heading text-36'>Engineer Your Success</h2><p class='text text-18'>We architect the ideal legal entity for your business ambitions, ensuring enduring success and compliance.</p><ul class='text-lists list-unstyled'><li class='text-item' data-aos='fade-up'><svg class='icon-24' width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M17.9999 6.99486L16.5899 5.58594L10.2499 11.9211L11.6599 13.33L17.9999 6.99486ZM22.2399 5.58594L11.6599 16.1578L7.47991 11.991L6.06991 13.3999L11.6599 18.9857L23.6599 6.99486L22.2399 5.58594ZM0.409912 13.3999L5.99991 18.9857L7.40991 17.5767L1.82991 11.991L0.409912 13.3999Z' fill='CurrentColor'/></svg><div class='text text-18 fw-600'>Entity Selection & Formation</div></li><li class='text-item' data-aos='fade-up'><svg class='icon-24' width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M17.9999 6.99486L16.5899 5.58594L10.2499 11.9211L11.6599 13.33L17.9999 6.99486ZM22.2399 5.58594L11.6599 16.1578L7.47991 11.991L6.06991 13.3999L11.6599 18.9857L23.6599 6.99486L22.2399 5.58594ZM0.409912 13.3999L5.99991 18.9857L7.40991 17.5767L1.82991 11.991L0.409912 13.3999Z' fill='CurrentColor'/></svg><div class='text text-18 fw-600'>Corporate Governance</div></li></ul></div></div></div></div>",
+        "description": "Optimize your company's organizational structure for better efficiency and scalability.",
+        "list": [
+            {
+                "title": "Entity Selection"
+            },
+            {
+                "title": "Business Registration"
+            },
+            {
+                "title": "Operational Setup"
+            }
+        ],
+        "created_at": "2026-10-01T18:00:00Z"
+    },
+    {
+        "id": 4,
+        "slug": "financial-solutions",
+        "title": "Financial Solutions",
+        "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40' fill='none'><g clip-path='url(#clip0_FS)'><path d='M8 34 V24 H14 V34 H8 Z' fill='CurrentColor'/><path d='M18 34 V18 H24 V34 H18 Z' fill='CurrentColor'/><path d='M28 34 V12 H34 V34 H28 Z' fill='CurrentColor'/><path d='M6 34 H36 V36 H6 Z' fill='CurrentColor'/></g><defs><clipPath id='clip0_FS'><rect width='40' height='40' fill='CurrentColor' /></clipPath></defs></svg>",
+        "content": "<p class='text text-18' data-aos='fade-up'>We provide a comprehensive suite of financial solutions engineered to deliver clarity and propel growth. From strategic financial planning and sophisticated investment analysis to securing critical funding, our team aligns your financial strategy with your core business objectives.</p><p class='text text-18' data-aos='fade-up'>Our primary objective is to fortify your financial health, optimize your capital structure, and provide actionable intelligence for superior decision-making. We empower you to build a resilient and prosperous financial future for your enterprise.</p><div class='service-choose-us' data-aos='fade-up'><div class='grid grid-cols-2 lg:gap-1 service-row'><div class='md:col-span-1 col-span-2'><div class='choose-us-img radius18'><img src='/img/service/sd-1.jpg' width='1000' height='962' loading='lazy' alt='Financial Solutions'></div></div><div class='md:col-span-1 col-span-2'><div class='choose-us-desc'><h2 class='heading text-36'>Catalyze Your Capital</h2><p class='text text-18'>From strategic foresight to investment execution, we deliver the financial acumen required to scale your business effectively.</p><ul class='text-lists list-unstyled'><li class='text-item' data-aos='fade-up'><svg class='icon-24' width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M17.9999 6.99486L16.5899 5.58594L10.2499 11.9211L11.6599 13.33L17.9999 6.99486ZM22.2399 5.58594L11.6599 16.1578L7.47991 11.991L6.06991 13.3999L11.6599 18.9857L23.6599 6.99486L22.2399 5.58594ZM0.409912 13.3999L5.99991 18.9857L7.40991 17.5767L1.82991 11.991L0.409912 13.3999Z' fill='CurrentColor'/></svg><div class='text text-18 fw-600'>Strategic Financial Planning</div></li><li class='text-item' data-aos='fade-up'><svg class='icon-24' width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M17.9999 6.99486L16.5899 5.58594L10.2499 11.9211L11.6599 13.33L17.9999 6.99486ZM22.2399 5.58594L11.6599 16.1578L7.47991 11.991L6.06991 13.3999L11.6599 18.9857L23.6599 6.99486L22.2399 5.58594ZM0.409912 13.3999L5.99991 18.9857L7.40991 17.5767L1.82991 11.991L0.409912 13.3999Z' fill='CurrentColor'/></svg><div class='text text-18 fw-600'>Investment & Funding</div></li></ul></div></div></div></div>",
+        "description": "Explore tailored financial strategies, from funding to investment planning, to fuel your growth.",
+        "list": [
+            {
+                "title": "Financial Planning"
+            },
+            {
+                "title": "Investment Analysis"
+            },
+            {
+                "title": "Capital Raising"
+            }
+        ],
+        "created_at": "2026-10-01T18:00:00Z"
+    },
+    {
+        "id": 5,
+        "slug": "business-accounting",
+        "title": "Business Accounting",
+        "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40' fill='none'><g clip-path='url(#clip0_BA)'><path d='M28 6H12C9.79 6 8 7.79 8 10V30C8 32.21 9.79 34 12 34H28C30.21 34 32 32.21 32 30V10C32 7.79 30.21 6 28 6ZM18 10H14V12H18V10ZM18 14H14V16H18V14ZM18 18H14V20H18V18ZM28 28H12V26H28V28ZM28 24H12V22H28V24Z' fill='CurrentColor'/><path d='M22 10 L30 18 L28 20 L20 12 Z' fill='CurrentColor' fill-opacity='0.7'/><path d='M30 18 L31 19 L29 21 L28 20 Z' fill='CurrentColor'/></g><defs><clipPath id='clip0_BA'><rect width='40' height='40' fill='CurrentColor' /></clipPath></defs></svg>",
+        "content": "<p class='text text-18' data-aos='fade-up'>Maintain immaculate and compliant financial records with our expert accounting services. We manage the full spectrum of accounting functions, from bookkeeping and payroll to comprehensive tax preparation and financial reporting, freeing you to focus on your core operations.</p><p class='text text-18' data-aos='fade-up'>Our team is committed to meticulous attention to detail, ensuring your financial data is perpetually reliable and audit-ready. We employ modern accounting methodologies to furnish you with timely, actionable insights into your company's financial performance.</p><div class='service-choose-us' data-aos='fade-up'><div class='grid grid-cols-2 lg:gap-1 service-row'><div class='md:col-span-1 col-span-2'><div class='choose-us-img radius18'><img src='/img/service/sd-1.jpg' width='1000' height='962' loading='lazy' alt='Accounting Services'></div></div><div class='md:col-span-1 col-span-2'><div class='choose-us-desc'><h2 class='heading text-36'>Precision in Practice</h2><p class='text text-18'>Our exacting accounting and bookkeeping services guarantee your business remains compliant and financially robust.</p><ul class='text-lists list-unstyled'><li class='text-item' data-aos='fade-up'><svg class='icon-24' width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M17.9999 6.99486L16.5899 5.58594L10.2499 11.9211L11.6599 13.33L17.9999 6.99486ZM22.2399 5.58594L11.6599 16.1578L7.47991 11.991L6.06991 13.3999L11.6599 18.9857L23.6599 6.99486L22.2399 5.58594ZM0.409912 13.3999L5.99991 18.9857L7.40991 17.5767L1.82991 11.991L0.409912 13.3999Z' fill='CurrentColor'/></svg><div class='text text-18 fw-600'>Bookkeeping & Financial Reporting</div></li><li class='text-item' data-aos='fade-up'><svg class='icon-24' width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M17.9999 6.99486L16.5899 5.58594L10.2499 11.9211L11.6599 13.33L17.9999 6.99486ZM22.2399 5.58594L11.6599 16.1578L7.47991 11.991L6.06991 13.3999L11.6599 18.9857L23.6599 6.99486L22.2399 5.58594ZM0.409912 13.3999L5.99991 18.9857L7.40991 17.5767L1.82991 11.991L0.409912 13.3999Z' fill='CurrentColor'/></svg><div class='text text-18 fw-600'>Tax & Payroll Services</div></li></ul></div></div></div></div>",
+        "description": "Ensure accurate financial reporting and compliance with our professional accounting services.",
+        "list": [
+            {
+                "title": "Full-Cycle Accounting"
+            },
+            {
+                "title": "Tax Advisory"
+            },
+            {
+                "title": "Financial Reporting"
+            }
+        ],
+        "created_at": "2026-10-01T18:00:00Z"
+    },
+    {
+        "id": 6,
+        "slug": "business-incubation",
+        "title": "Business Incubation",
+        "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40' fill='none'><g clip-path='url(#clip0_BI)'><path d='M20 6 C16.69 6 14 8.69 14 12 C14 14.7 16.03 17.06 18.75 17.85 V22 H21.25 V17.85 C23.97 17.06 26 14.7 26 12 C26 8.69 23.31 6 20 6 Z' fill='CurrentColor'/><path d='M18 24 H22 V26 H18 Z M16 28 H24 V30 H16 Z' fill='CurrentColor'/><path d='M20 18 C19.4 18 19 17.1 19 16 H17 C17 18 18 20 20 20 C22 20 23 18 23 16 H21 C21 17.1 20.6 18 20 18 Z' fill='CurrentColor'/></g><defs><clipPath id='clip0_BI'><rect width='40' height='40' fill='CurrentColor' /></clipPath></defs></svg>",
+        "content": "<p class='text text-18' data-aos='fade-up'>Transform your groundbreaking idea into a thriving enterprise with our elite business incubation program. We equip startups with the critical mentorship, resources, and structured support necessary to accelerate growth and master early-stage challenges.</p><p class='text text-18' data-aos='fade-up'>From refining product development and validating market fit to securing your crucial first round of funding, our program is meticulously designed to cultivate innovation and forge successful, scalable businesses from the ground up.</p><div class='service-choose-us' data-aos='fade-up'><div class='grid grid-cols-2 lg:gap-1 service-row'><div class='md:col-span-1 col-span-2'><div class='choose-us-img radius18'><img src='/img/service/sd-1.jpg' width='1000' height='962' loading='lazy' alt='Business Incubation'></div></div><div class='md:col-span-1 col-span-2'><div class='choose-us-desc'><h2 class='heading text-36'>Innovate and Elevate</h2><p class='text text-18'>Our incubation program delivers the expert mentorship and vital resources to catapult your startup's growth trajectory.</p><ul class='text-lists list-unstyled'><li class='text-item' data-aos='fade-up'><svg class='icon-24' width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M17.9999 6.99486L16.5899 5.58594L10.2499 11.9211L11.6599 13.33L17.9999 6.99486ZM22.2399 5.58594L11.6599 16.1578L7.47991 11.991L6.06991 13.3999L11.6599 18.9857L23.6599 6.99486L22.2399 5.58594ZM0.409912 13.3999L5.99991 18.9857L7.40991 17.5767L1.82991 11.991L0.409912 13.3999Z' fill='CurrentColor'/></svg><div class='text text-18 fw-600'>Strategic Mentorship</div></li><li class='text-item' data-aos='fade-up'><svg class='icon-24' width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M17.9999 6.99486L16.5899 5.58594L10.2499 11.9211L11.6599 13.33L17.9999 6.99486ZM22.2399 5.58594L11.6599 16.1578L7.47991 11.991L6.06991 13.3999L11.6599 18.9857L23.6599 6.99486L22.2399 5.58594ZM0.409912 13.3999L5.99991 18.9857L7.40991 17.5767L1.82991 11.991L0.409912 13.3999Z' fill='CurrentColor'/></svg><div class='text text-18 fw-600'>Resource & Network Access</div></li></ul></div></div></div></div>",
+        "description": "Accelerate your startup's growth with expert mentorship and resources in our incubation program.",
+        "list": [
+            {
+                "title": "Startup Mentorship"
+            },
+            {
+                "title": "Market Validation"
+            },
+            {
+                "title": "Investment Readiness"
+            }
+        ],
+        "created_at": "2026-10-01T18:00:00Z"
+    }
+]
