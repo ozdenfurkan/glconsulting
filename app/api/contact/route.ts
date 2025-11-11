@@ -44,10 +44,10 @@ export async function POST(req: NextRequest) {
 
     // Email options
     const mailOptions = {
-      from: process.env.EMAIL_USER, // Sadece doğrulanmış e-posta adresi
-      to: process.env.EMAIL_USER, // Alıcı
-      reply_to: email, // Müşterinin e-postası (Yanıtla butonuna basınca buraya gider)
-      subject: `New Form Message from ${name}`, // Müşterinin adını konuya ekledik
+      from: process.env.EMAIL_USER, // SADECE sizin doğrulanmış e-postanız
+      to: process.env.EMAIL_USER,   
+      reply_to: email, // Müşterinin e-postası buraya
+      subject: `New Form Message from ${name}`, // Müşterinin adı konuya
       text: message,
       html: html,
     };
